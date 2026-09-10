@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "python-template"
+name = "handling-cbr-xml-api-data-streams"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Получение и обработка XML-данных из API Центрального банка РФ"
+authors = ["Viktoria Chernysheva"]
 
 [tool.poetry.dependencies]
 python = ">=3.8.0,<3.9"
